@@ -15,7 +15,7 @@ Artificially Redshifting Galaxies with a neural network
 
 ### Clone and install SMPY --> https://github.com/darkieee/dark-cosmos-research-01.git
 
-`git clone git://github.com/dunkenj/smpy.git`
+`git clone git://darkieee/dark-cosmos-research-01.git`
 
 `python setup.py install`
 
