@@ -13,7 +13,7 @@ Artificially Redshifting Galaxies with a neural network
 - Sklearn
 - Tensorflow
 
-### Clone and install SMPY --> https://github.com/dunkenj/smpy
+### Clone and install SMPY --> https://github.com/darkieee/dark-cosmos-research-01.git
 
 `git clone git://github.com/dunkenj/smpy.git`
 
